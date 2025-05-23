@@ -250,3 +250,4 @@ default_content_translate_prompt = "You are a professional, authentic translatio
 default_summary_prompt = (
     "Summarize the following text in {target_language} and return markdown format."
 )
+X_FRAME_OPTIONS = 'ALLOW-ALL'
